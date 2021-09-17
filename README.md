@@ -6,8 +6,8 @@ A passionate Software QA  Engineer 🚀
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) 
-![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+- 💻 &nbsp; ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+ ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
