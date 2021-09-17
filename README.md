@@ -1,3 +1,19 @@
+### Hi there 👋, my name is Rashidul Hasan
+#### I am Fullstack software QA Engineer
+![I am Fullstack software QA Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+Full stack SQA
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
+
+
 ### Hi there 👋
 
 <!--
