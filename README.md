@@ -1,12 +1,92 @@
-<h1 align="center">Hi 👋, I'm Rashidul Hasan</h1>
-<h3 align="center">A passionate Software QA Engineer Form Bangladesh</h3>
+## Hi there, I'm [Abdullah AL Habib](https://habib.info.bd) ?
+A passionate Software Developer ?
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Abdullah+AL+Habib;I+am+a+Software+Enginner)](https://git.io/typing-svg)
+ 
+ 
+<h3>? Tech Stack</h3>
+ 
+- ? &nbsp;  ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
+![Nodejs](https://img.shields.io/badge/-Node.Js-black?style=flat-square&logo=Node.js)
+ 
+- ? &nbsp;
+![Java](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
+![Java](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Java](https://img.shields.io/badge/-Express.Js-black?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+ 
+- ? &nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+ 
+- ? &nbsp; ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-black?style=flat-square&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
+ 
+<!--
+**aalhabib001/aalhabib001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+Here are some ideas to get you started:
+ 
+- ? I’m currently working on ...
+- ? I’m currently learning ...
+- ? I’m looking to collaborate on ...
+- ? I’m looking for help with ...
+- ? Ask me about ...
+- ? How to reach me: ...
+- ? Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+ 
+<br/>
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aalhabib001&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /> </p>  
+ 
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+ 
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aalhabib001&theme=algolia&hide_border=false"/>
+</p>
+ 
+ <p align="center">
+  <a href="https://github.com/aalhabib001">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=aalhabib001&show_icons=true&theme=algolia&count_private=true">
+  </a>
+  <a href="https://github.com/aalhabib001">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aalhabib001&layout=compact&theme=algolia&langs_count=8" />
+  </a>
+ </p>
+ 
+Visit my [Portfolio](http://habib.info.bd)
+ 
+<h3> ?? Connect with Me </h3>
+ 
+<p align="center">
+<a href="https://habib.info.bd/"><img alt="PortFolio" src="https://img.shields.io/badge/habib.info.bd-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/aalhabib001/"><img alt="LinkedIn" src="https://img.shields.io/badge/aalhabib001-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
+<a href="https://www.facebook.com/aalhabib001/"><img alt="Facebook" src="https://img.shields.io/badge/aalhabib001-facebook-blue?style=flat&logo=facebook"></a>
+<a href="mailto:aalhabib001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aalhabib001@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+ 
+<br/>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+ 
+<br/>
+ 
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Rashidul Hasan Ratul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Rashidul Hasan Ratul" /></a></p><br><br>
-
-
-
+ 
+ 
