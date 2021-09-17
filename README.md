@@ -32,7 +32,8 @@ A passionate Software QA  Engineer 🚀
 - 🔧 &nbsp; 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![GitHub](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 
 - &#x270E; 
 ![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=Jira)
