@@ -15,6 +15,7 @@ A passionate Software QA  Engineer 🚀
 - 🌐 &nbsp; 
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=Cypress)
 ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=Selenium)
+![TestNG](https://img.shields.io/badge/-TestNG-black?style=flat-square&logo=TestNG)
 ![Appium](https://img.shields.io/badge/-Appium-black?style=flat-square&logo=Appium)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
 ![Jmeter](https://img.shields.io/badge/-Jmeter-black?style=flat-square&logo=JMeter)
