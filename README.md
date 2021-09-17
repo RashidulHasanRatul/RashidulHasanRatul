@@ -38,7 +38,8 @@ A passionate Software QA  Engineer 🚀
 - &#x270E; 
 ![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=Jira)
 ![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=Trello)
-
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=flat-square&logo=Bitbucket)
+![Bugzila](https://img.shields.io/badge/-Bugzila-black?style=flat-square&logo=Bugzila)
 <!--
 **aalhabib001/aalhabib001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
