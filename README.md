@@ -13,10 +13,13 @@ A passionate Software QA  Engineer 🚀
 
 
 - 🌐 &nbsp; 
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
-![Selenium](https://img.shields.io/badge/-Appium-black?style=flat-square&logo=Appium)
-![Selenium](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=Cypress)
+
+
+![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=Cypress)
+![Appium](https://img.shields.io/badge/-Appium-black?style=flat-square&logo=Appium)
 ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=Selenium)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
+![Jmeter](https://img.shields.io/badge/-Jmeter-black?style=flat-square&logo=Jmeter)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
