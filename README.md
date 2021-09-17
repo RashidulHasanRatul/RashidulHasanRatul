@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aalhabib001&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RashidulHasanRatul&label=Profile%20views&color=0e75b6&style=flat" alt="RashidulHasanRatul" /> </p>  
   
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
