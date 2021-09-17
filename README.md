@@ -1,7 +1,7 @@
-## Hi there, I'm [Rashidul Hasan](https://habib.info.bd) 👋
+## Hi there, I'm [Rashidul Hasan](https://rashidulhasan.me/) 👋
 A passionate Software QA  Engineer 🚀 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Rashidul+Hasan;I+am+a+Software+QA+Enginner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Rashidul+Hasan;I+am+a+Full Stack+Software+QA+Enginner)](https://git.io/typing-svg)
 
 
 <h3>🛠 Tech Stack</h3>
@@ -13,6 +13,7 @@ A passionate Software QA  Engineer 🚀
 
 
 - 🌐 &nbsp; 
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
 ![Selenium](https://img.shields.io/badge/-Appium-black?style=flat-square&logo=Appium)
 ![Selenium](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=Cypress)
 ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=Selenium)
