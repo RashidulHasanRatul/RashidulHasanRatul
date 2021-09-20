@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 Visit my [Portfolio](https://rashidulhasan.me/)
 
 <h3  align="center" > 🤝🏻 Connect with Me </h3>
+<hr/>
 
 <p align="center">
 <a href="https://rashidulhasan.me/"><img alt="PortFolio" src="https://img.shields.io/badge/rashidulhasan.me-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
