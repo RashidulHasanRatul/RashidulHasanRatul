@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 <p align="center">
-   <img style="color: orange;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RashidulHasanRatul&theme=algolia&hide_border=false"/>
+   <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RashidulHasanRatul&theme=algolia&hide_border=false"/>
 </p>
 
  <p align="center">
@@ -75,8 +75,7 @@ Here are some ideas to get you started:
   </a>
  </p>
 
-Visit my [Portfolio](https://rashidulhasan.me/)
-
+  <h3  align="center"  > Visit my [Portfolio](https://rashidulhasan.me/) </h3>  
 <h3  align="center" > 🤝🏻 Connect with Me </h3>
 <hr/>
 
