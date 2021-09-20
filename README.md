@@ -74,8 +74,13 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RashidulHasanRatul&layout=compact&theme=algolia&langs_count=8" />
   </a>
  </p>
+ 
+ <hr/>
 
-  <h3  align="center"  > Visit my  <a href="(https://rashidulhasan.me/" > [Portfolio]</a>  </h3>  
+  <h3  align="center"  > Visit my  <a href="https://rashidulhasan.me/" > [Portfolio]</a>  </h3> 
+  
+  <hr/>
+  
 <h3  align="center" > 🤝🏻 Connect with Me </h3>
 <hr/>
 
