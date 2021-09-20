@@ -1,7 +1,7 @@
 ## Hi there, I'm [Rashidul Hasan](https://rashidulhasan.me/) 👋
 A passionate Software QA  Engineer 🚀 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Rashidul+Hasan;I+am+a+Full+Stack+Software+QA+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+Rashidul+Hasan;I+am+a+Full+Stack+Software+QA+Engineer)]
 
 
 <h3>🛠 Tech Stack</h3>
