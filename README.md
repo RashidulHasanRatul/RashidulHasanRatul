@@ -77,7 +77,7 @@ Here are some ideas to get you started:
  
  <hr/>
 
-  <h3  align="center"  > Visit my  <a href="https://rashidulhasan.me/" > [Portfolio]</a>  </h3> 
+  <h3  align="center"  > Visit my  <a target="_blank" href="https://rashidulhasan.me/" > [Portfolio]</a>  </h3> 
   
   <hr/>
   
