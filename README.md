@@ -41,7 +41,7 @@ A passionate Software QA  Engineer 🚀
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=flat-square&logo=Bitbucket)
 ![Bugzila](https://img.shields.io/badge/-Bugzila-black?style=flat-square&logo=Bugzila)
 <!--
-**aalhabib001/aalhabib001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rashidul Hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
   </a>
  </p>
 
-Visit my [Portfolio](http://habib.info.bd)
+Visit my [Portfolio](https://rashidulhasan.me/)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
