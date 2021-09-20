@@ -75,7 +75,7 @@ Here are some ideas to get you started:
   </a>
  </p>
 
-  <h3  align="center"  > Visit my [Portfolio](https://rashidulhasan.me/) </h3>  
+  <h3  align="center"  > Visit my  <a href="(https://rashidulhasan.me/" > [Portfolio]</a>  </h3>  
 <h3  align="center" > 🤝🏻 Connect with Me </h3>
 <hr/>
 
