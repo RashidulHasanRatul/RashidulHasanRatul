@@ -19,6 +19,7 @@ A passionate Software QA  Engineer 🚀
 ![Cucumebr](https://img.shields.io/badge/-Cucumber-black?style=flat-square&logo=Cucumber)
 ![Appium](https://img.shields.io/badge/-Appium-black?style=flat-square&logo=Appium)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
+![RestAssured](https://img.shields.io/badge/-RestAssured-black?style=flat-square&logo=RestAssured)
 ![Jmeter](https://img.shields.io/badge/-Jmeter-black?style=flat-square&logo=JMeter)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
